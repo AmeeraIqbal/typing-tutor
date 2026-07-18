@@ -9,26 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Semester](https://img.shields.io/badge/Semester-2nd-orange?style=for-the-badge)
 
----
 
-## 📋 Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Topics](#topics)
-- [Difficulty Levels](#difficulty-levels)
-- [Demo](#demo)
-- [How to Run](#how-to-run)
-- [Usage](#usage)
-- [Performance Metrics](#performance-metrics)
-- [Project Structure](#project-structure)
-- [What I Learned](#what-i-learned)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [Author](#author)
-- [License](#license)
-
----
 
 ## 📖 About
 
