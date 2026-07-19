@@ -107,3 +107,22 @@ g++ "TYPING TUTOR SYSTEM PROJECT.cpp" -o typing_tutor
 # Run
 ./typing_tutor          # Linux/macOS
 typing_tutor.exe        # Windows
+```
+---
+## Future Enhancements
+
+- 🎯 User Profiles - Save typing history and track progress over time
+- 🎨 GUI Interface - Replace console with graphical interface
+- 📝 More Sentences - Add 50+ sentences per difficulty level
+- ✏️ Custom Sentences - Allow users to add their own sentences
+- ⏱️ Time-based Mode - Challenge users to type as many words as possible
+- 🏆 Leaderboard - Compare scores with other users
+- 📊 Export Reports - Generate PDF reports of performance
+- 📱 Mobile App - Create Android/iOS version
+- ---
+  📄 License
+MIT — use it freely, just give credit 😊
+---
+⭐ If you found this project helpful, please give it a star on GitHub!
+
+Keep practicing and happy typing! ⌨️
