@@ -3,7 +3,6 @@
 **A powerful C++ console-based typing tutor** that helps users improve typing speed and accuracy while learning from 10 educational topics.
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=for-the-badge)
 ![University](https://img.shields.io/badge/University-UMT-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
@@ -27,7 +26,6 @@ BS Information Technology (2nd Semester)
 University of Management and Technology (UMT)  
 **Date:** July 2026
 
----
 
 ## ✨ Features
 
@@ -40,7 +38,6 @@ University of Management and Technology (UMT)
 - ✅ **Clean Console Interface** (User-friendly menus)
 - ✅ **Time Tracking** (Measures typing speed accurately)
 
----
 
 ## 📚 Topics
 
@@ -57,7 +54,6 @@ University of Management and Technology (UMT)
 | 9 | Critical Thinking | Logic, reasoning, and problem-solving |
 | 10 | Emotional Intelligence | Emotional awareness and social skills |
 
----
 
 ## 🎯 Difficulty Levels
 
@@ -67,7 +63,6 @@ University of Management and Technology (UMT)
 | **Medium** 🟡 | Balanced length and complexity | 8-12 words | Moderate vocabulary |
 | **Advanced** 🔴 | Long, academic-level sentences | 12-18 words | Complex vocabulary |
 
----
 
 ## 🎥 Demo
 
@@ -84,8 +79,6 @@ University of Management and Technology (UMT)
 ![Results](screenshots/results.png)
 
 ### Sample Output
-
----
 
 ## 🚀 How to Run
 
@@ -108,7 +101,6 @@ g++ "TYPING TUTOR SYSTEM PROJECT.cpp" -o typing_tutor
 ./typing_tutor          # Linux/macOS
 typing_tutor.exe        # Windows
 ```
----
 ## Future Enhancements
 
 - 🎯 User Profiles - Save typing history and track progress over time
@@ -119,10 +111,7 @@ typing_tutor.exe        # Windows
 - 🏆 Leaderboard - Compare scores with other users
 - 📊 Export Reports - Generate PDF reports of performance
 - 📱 Mobile App - Create Android/iOS version
-- ---
-  📄 License
-MIT — use it freely, just give credit 😊
----
+
 ⭐ If you found this project helpful, please give it a star on GitHub!
 
 Keep practicing and happy typing! ⌨️
