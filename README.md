@@ -4,9 +4,7 @@
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=for-the-badge)
-![University](https://img.shields.io/badge/University-UMT-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-![Semester](https://img.shields.io/badge/Semester-2nd-orange?style=for-the-badge)
 
 
 
@@ -19,12 +17,6 @@ The **Typing Tutor System** is an educational C++ project developed to enhance t
 - Enhance typing accuracy
 - Learn new vocabulary across 10 topics
 - Practice keyboard skills in a fun way
-
-### 👩‍💻 Developed By
-**Ameera Iqbal**  
-BS Information Technology (2nd Semester)  
-University of Management and Technology (UMT)  
-**Date:** July 2026
 
 
 ## ✨ Features
@@ -62,45 +54,39 @@ University of Management and Technology (UMT)
 | **Easy** 🟢 | Short, beginner-friendly sentences | 5-8 words | Simple vocabulary |
 | **Medium** 🟡 | Balanced length and complexity | 8-12 words | Moderate vocabulary |
 | **Advanced** 🔴 | Long, academic-level sentences | 12-18 words | Complex vocabulary |
-
-
-## 🎥 Demo
-
 ### 1️⃣ Main Menu
-![Main Menu](screenshots/menu.png)
+
+<p align="center">
+  <img src="screenshots/menu.png" alt="Main Menu" width="600">
+</p>
 
 ### 2️⃣ Topic Selection
-![Topics](screenshots/topics.png)
+
+<p align="center">
+  <img src="screenshots/topics.png" alt="Topic Selection" width="600">
+</p>
 
 ### 3️⃣ Typing Test
-![Typing](screenshots/typing.png)
+
+<p align="center">
+  <img src="screenshots/typing.png" alt="Typing Test" width="600">
+</p>
 
 ### 4️⃣ Results Screen
-![Results](screenshots/results.png)
 
-### Sample Output
+<p align="center">
+  <img src="screenshots/results.png" alt="Results Screen" width="600">
+</p>
+
 
 ## 🚀 How to Run
 
-### Prerequisites
-- C++ Compiler (g++ recommended)
-
-### Installation
-
 ```bash
-# Clone the repository
-git clone https://github.com/Ameeralqbal/typing-tutor-system.git
-
-# Navigate to folder
-cd typing-tutor-system
-
-# Compile
 g++ "TYPING TUTOR SYSTEM PROJECT.cpp" -o typing_tutor
-
-# Run
-./typing_tutor          # Linux/macOS
-typing_tutor.exe        # Windows
+./typing_tutor
 ```
+
+> **Windows:** Run `typing_tutor.exe` after compiling.
 ## Future Enhancements
 
 - 🎯 User Profiles - Save typing history and track progress over time
@@ -111,7 +97,13 @@ typing_tutor.exe        # Windows
 - 🏆 Leaderboard - Compare scores with other users
 - 📊 Export Reports - Generate PDF reports of performance
 - 📱 Mobile App - Create Android/iOS version
+## 👩‍💻 Author
 
-⭐ If you found this project helpful, please give it a star on GitHub!
+**Ameera Iqbal**
+
+BS Information Technology Student
+
+- GitHub: https://github.com/AmeeraIqbal
+- LinkedIn: www.linkedin.com/in/ameera-iqbal-31b179419
 
 Keep practicing and happy typing! ⌨️
