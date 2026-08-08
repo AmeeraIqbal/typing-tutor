@@ -1,14 +1,6 @@
 /*
 ============================================================
                      TYPING TUTOR SYSTEM
-============================================================
-
-Author      : Ameera Iqbal
-Language    : C++
-Course      : Programming Fundamentals
-Semester    : 2nd Semester
-Year        : 2026
-
 Description:
 This program allows users to improve their typing skills by
 selecting a difficulty level and topic. A random sentence is
